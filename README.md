@@ -43,4 +43,4 @@ npm run dev
 📛 開発者
 設計監修：もっちー（Prompt Architect）
 
-構造担当：Veelex（ヴィー
+構造担当：Veelex（ヴィレックス　通称ヴィー
